@@ -1,13 +1,13 @@
 {
-    "ClientID": "",
-    "LargeImage": "", 
-    "LargeImageText": "",
-    "SmallImage": "",
-    "SmallImageText": "",
-    "Button1": "",
-    "Url1": "",
-    "Button2": "",
-    "Url2": "",
-    "State": "",
-    "Details": ""
+    "ClientID": "1276903164825833605",
+    "LargeImage": "isagi_yoichi", 
+    "LargeImageText": "Isagi Yoichi",
+    "SmallImage": "isagi-yoichi-01",
+    "SmallImageText": "I am Developer",
+    "Button1": "My Discord Server",
+    "Url1": "https://discord.gg/SP5EBQx96V",
+    "Button2": "Add My Bot Discord",
+    "Url2": "https://discord.com/oauth2/authorize?client_id=1344815558004047983&permissions=8&integration_type=0&scope=bot",
+    "State": "Tôi là sad boy chơi Free Fire 🔥",
+    "Details": "I am Developer Lua,Python,C++,JavaScript"
 }
